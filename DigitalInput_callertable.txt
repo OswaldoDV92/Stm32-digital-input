@@ -1,0 +1,4 @@
+main
+	__FillZeros
+	config_clock
+	config_gpio

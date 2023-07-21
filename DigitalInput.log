@@ -1,0 +1,12 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F103C8 -BIN -LHF -DL -SSA -O11111114 -fo72 -N"C:\Users\amara\Documents\stm32\Mikro c\DigitalInput\DigitalInput.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -SP"C:\Users\amara\Documents\stm32\Mikro c\DigitalInput\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" "DigitalInput.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_101_102_103.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl"	 
+diagnostics: 0	122	Compilation Started	DigitalInput.c
+diagnostics: 27	123	Compiled Successfully	DigitalInput.c
+hint: 15	1164	Variable 'button' has been eliminated by optimizer	DigitalInput.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1144	Used RX: 12 (75%)   Free RX: 4 (25%)	Used RX: 12 (75%)   Free RX: 4 (25%)
+hint: 0	1144	Static RAM (bytes): 4   Dynamic RAM (bytes): 20473	Static RAM (bytes): 4   Dynamic RAM (bytes): 20473
+hint: 0	1144	Used ROM (bytes): 934 (1%)  Free ROM (bytes): 64602 (99%)	Used ROM (bytes): 934 (1%)  Free ROM (bytes): 64602 (99%)
+diagnostics: 0	125	Project Linked Successfully	DigitalInput.mcpar
+diagnostics: 0	128	Linked in 281 ms	 
+diagnostics: 0	129	Project 'DigitalInput.mcpar' completed: 609 ms	 
+diagnostics: 0	103	Finished successfully: 20 jul. 2023, 15:54:24	DigitalInput.mcpar
